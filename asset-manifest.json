@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/simple-sentiment-analysis/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/simple-sentiment-analysis/static/js/main.ded5b3ef.chunk.js",
+    "main.js.map": "/simple-sentiment-analysis/static/js/main.ded5b3ef.chunk.js.map",
+    "runtime-main.js": "/simple-sentiment-analysis/static/js/runtime-main.0d776208.js",
+    "runtime-main.js.map": "/simple-sentiment-analysis/static/js/runtime-main.0d776208.js.map",
+    "static/js/2.1f4a8e59.chunk.js": "/simple-sentiment-analysis/static/js/2.1f4a8e59.chunk.js",
+    "static/js/2.1f4a8e59.chunk.js.map": "/simple-sentiment-analysis/static/js/2.1f4a8e59.chunk.js.map",
+    "static/js/3.45afc22e.chunk.js": "/simple-sentiment-analysis/static/js/3.45afc22e.chunk.js",
+    "static/js/3.45afc22e.chunk.js.map": "/simple-sentiment-analysis/static/js/3.45afc22e.chunk.js.map",
+    "index.html": "/simple-sentiment-analysis/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/simple-sentiment-analysis/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1f4a8e59.chunk.js.LICENSE.txt": "/simple-sentiment-analysis/static/js/2.1f4a8e59.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/simple-sentiment-analysis/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d776208.js",
+    "static/js/2.1f4a8e59.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ded5b3ef.chunk.js"
+  ]
+}
