@@ -111,7 +111,7 @@ function App() {
       } else if (sentimentScore >= SentimentThreshold.Negative) {
         textSentiment = 'negative';
       }
-      setMessage("That is a " + textSentiment + " remark! With a sentiment score of " + sentimentScore.toFixed(4)*100 + "%.");
+      setMessage("That is a " + textSentiment + " remark! With a sentiment score of " + (sentimentScore * 100).toFixed(2) + "%.");
       setSnackOpen(true);
     }
   }
