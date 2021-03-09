@@ -118,7 +118,10 @@ function App() {
 
   useEffect(() => {
     loadModel().then(r => {
-      if (r) console.log('Model loaded! ', metadata);
+      if (r) {
+        setMessage("Model loaded.");
+        setSnackOpen(true);
+      }
     });
   });
 
